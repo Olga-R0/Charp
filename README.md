@@ -6,7 +6,7 @@
 
 ## Навыки
 
-![C#](https://img.shields.io/badge/C-239120?logo=csharp&logoColor=white)
+C#
 
 ## Описание
 
